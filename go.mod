@@ -1,0 +1,8 @@
+module github.com/liankui/chatdemo
+
+go 1.15
+
+require (
+	github.com/gobwas/ws v1.1.0
+	github.com/sirupsen/logrus v1.8.1
+)
